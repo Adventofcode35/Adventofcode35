@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adventofcode35
-- 👀 I’m interested in books, chess and micropytohn.
-- 🌱 I’m currently learning flask, micropytohn and advanced python.
+- 👀 I’m interested in books, chess and micropython.
+- 🌱 I’m currently learning flask, micropython and advanced python.
 - 💞️ I’m looking to collaborate on iot applications.
 - 📫 How to reach me ...
 - 😄 Pronouns: Really bro?
